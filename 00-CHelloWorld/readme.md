@@ -1,1 +1,2 @@
-1. Compilador usado: gcc c11 (En terminal: gcc -std=c11)
+TP0: "Hello, World!" en C
+Compilador usado: gcc (Estándar: c11) (En terminal: gcc -std=c11)
